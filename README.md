@@ -1,4 +1,4 @@
-# Project 2
+# Fire Sale!!
 ![FireSale](Images/Tobias_Fire_Sale.JPG)
 # <p align="center"> Retail, Machine Learning, and the Power of Sales </p>
   <p align="center"> How to predict sales and quanitfy results using machine learning . </p>
